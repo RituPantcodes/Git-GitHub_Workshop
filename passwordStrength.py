@@ -27,3 +27,4 @@ elif score <= 4:
 
 else:
     print("Strong password")
+    
